@@ -1,0 +1,14 @@
+current directory: /home/rails/rails_project/vendor/bundle/gems/interception-0.5/ext
+/usr/local/rvm/rubies/ruby-2.4.0/bin/ruby -r ./siteconf20180408-2681-ou6o3w.rb extconf.rb
+
+current directory: /home/rails/rails_project/vendor/bundle/gems/interception-0.5/ext
+make "DESTDIR=" clean
+make: *** No rule to make target 'clean'.  Stop.
+
+current directory: /home/rails/rails_project/vendor/bundle/gems/interception-0.5/ext
+make "DESTDIR="
+:
+
+current directory: /home/rails/rails_project/vendor/bundle/gems/interception-0.5/ext
+make "DESTDIR=" install
+:
